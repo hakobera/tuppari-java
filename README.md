@@ -1,4 +1,3 @@
-tuppari-java
-============
+tuppari-java has moved to it's own orginazation for better community involvement.
 
-Placeholder for tuppari-java
+https://github.com/tuppari/tuppari-java
